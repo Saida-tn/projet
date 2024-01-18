@@ -1,0 +1,4 @@
+hauteur: 5
+largeur: 5
+probabilitePropagation: 0.3
+positionsFeuInitiales: 1-1, 2-2
